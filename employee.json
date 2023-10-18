@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "Company Name": "Test Company",
+      "Name of Employee": "Test 1 Tset",
+      "Position": "Tester",
+      "Location": "Ground",
+      "Id": 1
+    },
+    {
+      "Company Name": "Test Company",
+      "Name of Employee": "Test 3 Tset",
+      "Position": "Tester",
+      "Location": "Ground",
+      "Id": 3
+    }
+  ]
+}
